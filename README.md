@@ -2,12 +2,6 @@
 <img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/track/1yvKfvS2T9uS0C27wG7aP8">
-    <img src="https://img.shields.io/badge/NOW_BLEEDING:_I_Prevail_-_Violent_Nature-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Violent Nature Track" />
-  </a>
-</p>
-
 </p>
 <p align="center">
   <a href="https://github.com/Blah-Fucking-Blah">
@@ -17,6 +11,16 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=800&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=Cigarettes%2C%20Books%2C%20%26%20Hyperfixations;Kiss%20me%2C%20I%20bite" alt="Typing headlines" />
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1yvKfvS2T9uS0C27wG7aP8">
+    <img src="https://img.shields.io/badge/NOW_BLEEDING:_I_Prevail_-_Violent_Nature-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Violent Nature Track" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Blah-Fucking-Blah&label=🚨+UNAUTHORIZED+TRESPASSER+DETECTED&color=dc382d&style=for-the-badge" alt="Trespasser Counter" />
 </p>
 
 ### 🚬 About Me
