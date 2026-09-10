@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Fliers/Skull.png" width="50" alt="Skull" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Fliers/Fire.png" width="50" alt="Fire" />
+  💀 🔥 ⚡
+</p>
 </p>
 <p align="center">
   <a href="https://github.com/Blah-Fucking-Blah">
