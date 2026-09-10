@@ -3,7 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-readme-counter.vercel.app/api/spotify?user=Blah-Fucking-Blah&theme=tokyonight&show_offline=true&border_radius=10" alt="Current Sound" />
+  <audio controls loop>
+    <source src="https://cdns-preview-d.dzcdn.net/stream/c-d6b38c35a822bca6e87f846e4b8555e5-3.mp3" type="audio/mp3">
+    Your browser lacks the stomach for audio.
+  </audio>
+</p>
+
+<p align="center">
+  <sub>🎧 Now Bleeding: <a href="https://open.spotify.com/track/4X222jL1xN5tqf3P1j1H3i">I Prevail — Violent Nature</a></sub>
 </p>
 
 </p>
