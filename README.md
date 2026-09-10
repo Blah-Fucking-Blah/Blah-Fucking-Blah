@@ -1,6 +1,11 @@
 <p align="center">
 <img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
 </p>
+
+<p align="center">
+  <img src="https://spotify-readme-counter.vercel.app/api/spotify?user=Blah-Fucking-Blah&theme=tokyonight&show_offline=true&border_radius=10" alt="Current Sound" />
+</p>
+
 </p>
 <p align="center">
   <a href="https://github.com/Blah-Fucking-Blah">
