@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0Rp8u7fAuFuERNplZXk3Vy?autoplay_ok=1">
+  <img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1yvKfvS2T9uS0C27wG7aP8">
     <img src="https://img.shields.io/badge/NOW_BLEEDING:_I_Prevail_-_Violent_Nature-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Violent Nature Track" />
   </a>
 </p>
