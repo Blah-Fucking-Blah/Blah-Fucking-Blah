@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=800&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=Cigarettes%2C%20Books%2C%20%26%20Hyperfixations;Kiss%20me%2C%20I%20bite" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=800&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=Cigarettes%2C%20Books%2C%20%26%20Hyperfixations;Kiss%20me%2C%20I%20bite" alt="Typing headlines" />
 </p>
 
 ### 🚬 About Me
