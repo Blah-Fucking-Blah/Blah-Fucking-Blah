@@ -50,7 +50,7 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blah-Fucking-Blah&show_icons=true&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&icon_color=dc382d&bg_color=000000" alt="Gigi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blah-Fucking-Blah&show_icons=true&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&icon_color=dc382d&bg_color=000000" alt="GitHub Stats" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blah-Fucking-Blah&layout=compact&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&bg_color=000000" alt="Top Languages" />
 </p>
 
