@@ -1,5 +1,5 @@
 <p align="center">
-  💀 🔥 ⚡
+  <img width="500" height="500" alt="FunnyFaceLoveGIFbyPapaJohns" src="https://github.com/user-attachments/assets/2cd26f5e-e4db-4a71-9f0b-368144b54798" />
 </p>
 </p>
 <p align="center">
