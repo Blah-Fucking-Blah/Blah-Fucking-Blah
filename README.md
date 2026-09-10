@@ -57,12 +57,7 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
 </p>
 
 ## 💀 Dev Quote
-<p align="center">
-  <code style="color: #b374ff; font-size: 14px; background: transparent; text-shadow: 0 0 8px rgba(179,116,255,0.5);">
-    &ldquo;The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM.&rdquo;
-  </code>
-  <br><br>
-  <code style="color: #b374ff; font-size: 12px; background: transparent;">
-    &mdash; <b>Gigi</b> <i>(System Corrupted)</i>
-  </code>
-</p>
+
+> ### 🔮 *"The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM."*
+> 
+> **— Gigi** *(System Corrupted)*
