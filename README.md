@@ -80,11 +80,7 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Blah-Fucking-Blah&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Blah-Fucking-Blah">Blah-Fucking-Blah</a></i></p>
+## 💭 Dev Quote
+> *"The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM."*
+> 
+> — **Gigi** *(System Corrupted)*
