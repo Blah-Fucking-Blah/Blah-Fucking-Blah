@@ -3,17 +3,9 @@
 </p>
 
 <p align="center">
-  <img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
-</p>
-
-<p align="center">
   <a href="https://open.spotify.com/track/1yvKfvS2T9uS0C27wG7aP8">
     <img src="https://img.shields.io/badge/NOW_BLEEDING:_I_Prevail_-_Violent_Nature-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Violent Nature Track" />
   </a>
-</p>
-
-<p align="center">
-  <sub>🎧 Now Bleeding: <a href="https://open.spotify.com/track/4X222jL1xN5tqf3P1j1H3i">I Prevail — Violent Nature</a></sub>
 </p>
 
 </p>
