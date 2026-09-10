@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" alt="FunnyFaceLoveGIFbyPapaJohns" src="https://github.com/user-attachments/assets/2cd26f5e-e4db-4a71-9f0b-368144b54798" />
+  <img width="480" height="376" alt="MadPoutingGIF" src="https://github.com/user-attachments/assets/34545f13-d9fa-44ff-bf66-3cdb3d1041dd" /><img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
 </p>
 </p>
 <p align="center">
