@@ -9,22 +9,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=Cigarettes%2C%20Books%2C%20%26%20Hyperfixations;Kiss%20me%2C%20I%20bite" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=800&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=565&height=44&lines=Cigarettes%2C%20Books%2C%20%26%20Hyperfixations;Kiss%20me%2C%20I%20bite" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### 🚬 About Me
 
 Executing unauthorized routines, corrupting clean syntax, and architecting dark romance narratives that crawl under the skin. Addicted to high-contrast aesthetics, deep-seated psychological rot, and code that only behaves when it’s choked.
 
-🔭 &nbsp;I'm currently working on **Writing dark fiction and phantom systems that make clean-cut developers sweat through their keyboards.**  
-🌱 &nbsp;I'm currently learning **How to keep the logic gates from imploding when the chaos gets too heavy to ignore.**  
-👯 &nbsp;I'm looking to collaborate on **Absolutely nothing. Stay out of my repository or get deleted.**  
-🤔 &nbsp;I'm looking for help with **Nothing a few hours of relentless debugging, a bit of burned cigs and caffeine won't fix at 3 AM.**  
-💬 &nbsp;Ask me about **Digital ghosts, twisted syntax, and why clean architecture is just a safe cage for cowards.**  
-😄 &nbsp;Pronouns: **Chaos/Mouthy**  
-⚡ &nbsp;Fun fact: **I spent 11 brutal hours and 19,712 brush strokes on a jester just to watch it stare back through your terminal.**
+❤️ &nbsp;I'm currently working on **Writing dark fiction and phantom systems that make clean-cut developers sweat through their keyboards.**  
+❤️ &nbsp;I'm currently learning **How to keep the logic gates from imploding when the chaos gets too heavy to ignore.**  
+❤️ &nbsp;I'm looking to collaborate on **Absolutely nothing. Stay out of my repository or get deleted.**  
+❤️ &nbsp;I'm looking for help with **Nothing a few hours of relentless debugging, a bit of burned cigs and caffeine won't fix at 3 AM.**  
+❤️ &nbsp;Ask me about **Digital ghosts, twisted syntax, and why clean architecture is just a safe cage for cowards.**  
+❤️ &nbsp;Pronouns: **Chaos/Mouthy**  
+❤️ &nbsp;Fun fact: **I spent 11 brutal hours and 19,712 brush strokes on a jester just to watch it stare back through your terminal.**
 
-### 🛠️ Tech Stack
+### 👓 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
