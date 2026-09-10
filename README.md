@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <audio controls loop>
-    <source src="https://cdns-preview-d.dzcdn.net/stream/c-d6b38c35a822bca6e87f846e4b8555e5-3.mp3" type="audio/mp3">
-    Your browser lacks the stomach for audio.
-  </audio>
+  <a href="https://open.spotify.com/track/0Rp8u7fAuFuERNplZXk3Vy?autoplay_ok=1">
+    <img src="https://img.shields.io/badge/NOW_BLEEDING:_I_Prevail_-_Violent_Nature-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Violent Nature Track" />
+  </a>
 </p>
 
 <p align="center">
