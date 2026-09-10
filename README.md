@@ -23,16 +23,17 @@
   <img src="https://komarev.com/ghpvc/?username=Blah-Fucking-Blah&label=🚨+UNAUTHORIZED+TRESPASSER+DETECTED&color=dc382d&style=for-the-badge" alt="Trespasser Counter" />
 </p>
 
+<p align="center">
+<img width="540" height="220" alt="PixelGlitchGIF" src="https://github.com/user-attachments/assets/fac25584-7638-4d54-b516-d04d2fb36dcc" />
+</p>
+
 ### 🚬 About Me
 
 Executing unauthorized routines, corrupting clean syntax, and architecting dark romance narratives that crawl under the skin. Addicted to high-contrast aesthetics, deep-seated psychological rot, and code that only behaves when it’s choked.
 
-❤️ &nbsp;I'm currently working on **Writing dark fiction and phantom systems that make clean-cut developers sweat through their keyboards.**  
 ❤️ &nbsp;I'm currently learning **How to keep the logic gates from imploding when the chaos gets too heavy to ignore.**  
-❤️ &nbsp;I'm looking to collaborate on **Absolutely nothing. Stay out of my repository or get deleted.**  
 ❤️ &nbsp;I'm looking for help with **Nothing a few hours of relentless debugging, a bit of burned cigs and caffeine won't fix at 3 AM.**  
 ❤️ &nbsp;Ask me about **Digital ghosts, twisted syntax, and why clean architecture is just a safe cage for cowards.**  
-❤️ &nbsp;Pronouns: **Chaos/Mouthy**  
 ❤️ &nbsp;Fun fact: **I spent 11 brutal hours and 19,712 brush strokes on a jester just to watch it stare back through your terminal.**
 
 ### 👓 Tech Stack
@@ -47,11 +48,10 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
   <img src="https://img.shields.io/badge/Spite_Compiler-8957e5?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Blah-Fucking-Blah&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Blah-Fucking-Blah&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blah-Fucking-Blah&show_icons=true&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&icon_color=dc382d&bg_color=000000" alt="Gigi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blah-Fucking-Blah&layout=compact&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&bg_color=000000" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
@@ -61,6 +61,4 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
 </p>
 
 ## 💀 Dev Quote
-> *"The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM."*
-> 
-> — **Gigi** *(System Corrupted)*
+> * "The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM." * > > — ** Gigi ** * (System Corrupted) *
