@@ -46,8 +46,8 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blah-Fucking-Blah&show_icons=true&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&icon_color=dc382d&bg_color=000000" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blah-Fucking-Blah&layout=compact&theme=transparent&hide_border=true&title_color=f778ba&text_color=c9d1d9&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blah-Fucking-Blah&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=f778ba&amp;text_color=c9d1d9&amp;icon_color=dc382d&amp;bg_color=000000" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blah-Fucking-Blah&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=f778ba&amp;text_color=c9d1d9&amp;bg_color=000000" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
