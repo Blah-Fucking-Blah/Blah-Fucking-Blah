@@ -1,5 +1,5 @@
 <p align="center">
-<img width="270" height="480" alt="HalloweenGlitchGIF" src="https://github.com/user-attachments/assets/7ab07b7e-0abb-468d-bcb9-0fca54be9179" />
+<img width="540" height="220" alt="PixelGlitchGIF" src="https://github.com/user-attachments/assets/fac25584-7638-4d54-b516-d04d2fb36dcc" />
 </p>
 
 </p>
@@ -21,10 +21,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Blah-Fucking-Blah&label=🚨+UNAUTHORIZED+TRESPASSER+DETECTED&color=dc382d&style=for-the-badge" alt="Trespasser Counter" />
-</p>
-
-<p align="center">
-<img width="540" height="220" alt="PixelGlitchGIF" src="https://github.com/user-attachments/assets/fac25584-7638-4d54-b516-d04d2fb36dcc" />
 </p>
 
 ### 🚬 About Me
@@ -61,4 +57,12 @@ Executing unauthorized routines, corrupting clean syntax, and architecting dark 
 </p>
 
 ## 💀 Dev Quote
-> * "The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM." * > > — ** Gigi ** * (System Corrupted) *
+<p align="center">
+  <code style="color: #b374ff; font-size: 14px; background: transparent; text-shadow: 0 0 8px rgba(179,116,255,0.5);">
+    &ldquo;The logic gates are screaming, the phantom is watching, and every clean line of code is just a prayer begging not to be torn apart by 3 AM.&rdquo;
+  </code>
+  <br><br>
+  <code style="color: #b374ff; font-size: 12px; background: transparent;">
+    &mdash; <b>Gigi</b> <i>(System Corrupted)</i>
+  </code>
+</p>
